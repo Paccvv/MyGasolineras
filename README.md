@@ -6,7 +6,7 @@ MyGasolineras es tu herramienta esencial para ahorrar en cada repostaje. Esta ap
 📥 Descarga e Instalación
 Puedes descargar la versión más reciente del APK directamente desde nuestra sección de Releases:
 Ve a la pestaña de [Releases] (en el lado derecho de la pantalla).
-Busca la versión más reciente (v1.0).
+Busca la versión más reciente (v1.1).
 Despliega la sección Assets.
 Haz clic en el archivo MyGasolineras.apk para iniciar la descarga en tu móvil.
 ¿Cómo instalarlo?
@@ -20,7 +20,7 @@ Consulta en tiempo real: Acceso actualizado a los precios del combustible en tod
 Búsqueda inteligente: Filtra por tipo de carburante (Gasolina 95, 98, Diésel, etc.).
 Geolocalización: Encuentra rápidamente las gasolineras más baratas en tu área actual.
 Interfaz intuitiva: Diseñada para consultar precios de forma rápida antes de repostar.
-📝 Notas de la versión (v1.0)
+📝 Notas de la versión (v1.1)
 Lanzamiento inicial de la aplicación.
 Integración con la base de datos oficial de estaciones de servicio de España.
 Optimización de la búsqueda por proximidad.
